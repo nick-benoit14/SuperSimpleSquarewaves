@@ -13,9 +13,16 @@ cycle_count located in the pa_testCallback function.
 
 A lower value will result in a higher frequency - A higher value will result in a lower frequency
 
-cycle_count = 10 (low frequency)               cycle_count = 5                  cycle_count = 1 (high frequency)
+cycle_count = 10 (low frequency)
+__________----------__________
 
-__________----------__________                 _____-----_____-----_____        _-_-_-_-_-_-_-_-
+
+cycle_count = 5
+_____-----_____-----_____
+
+
+cycle_count = 1 (high frequency)
+_-_-_-_-_-_-_-_-
 
 
 
